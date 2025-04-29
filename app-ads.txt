@@ -3133,3 +3133,9 @@ zmaticoo.com, 114122, RESELLER
 smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 advangelists.com, 9766527f2b5d3e95d4a733fcfb77bd7e, RESELLER, 60d26397ec060f98
 thunder-monetize.com, 1252316774, RESELLER
+tradplusad.com,1a1690d6a98ff4ad,DIRECT
+tradplusad.com,33c55ab93ff74ef2,DIRECT
+bidtox.com,37884,DIRECT
+bidtox.com,37894,DIRECT
+openx.com,561436793,RESELLER,6a698e2ec38604c6
+tradplusad.com,47f19dc32c56ff5e,RESELLER
